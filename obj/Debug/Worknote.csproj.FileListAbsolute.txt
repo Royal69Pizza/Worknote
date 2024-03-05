@@ -1,0 +1,10 @@
+C:\Users\royal\Desktop\Code\C#\Worknote\Worknote\bin\Debug\Worknote.exe.config
+C:\Users\royal\Desktop\Code\C#\Worknote\Worknote\bin\Debug\Worknote.exe
+C:\Users\royal\Desktop\Code\C#\Worknote\Worknote\bin\Debug\Worknote.pdb
+C:\Users\royal\Desktop\Code\C#\Worknote\Worknote\obj\Debug\Worknote.csproj.AssemblyReference.cache
+C:\Users\royal\Desktop\Code\C#\Worknote\Worknote\obj\Debug\Worknote.Form1.resources
+C:\Users\royal\Desktop\Code\C#\Worknote\Worknote\obj\Debug\Worknote.Properties.Resources.resources
+C:\Users\royal\Desktop\Code\C#\Worknote\Worknote\obj\Debug\Worknote.csproj.GenerateResource.cache
+C:\Users\royal\Desktop\Code\C#\Worknote\Worknote\obj\Debug\Worknote.csproj.CoreCompileInputs.cache
+C:\Users\royal\Desktop\Code\C#\Worknote\Worknote\obj\Debug\Worknote.exe
+C:\Users\royal\Desktop\Code\C#\Worknote\Worknote\obj\Debug\Worknote.pdb
